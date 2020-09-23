@@ -8,3 +8,4 @@ if (name === 'shohei') {
 } else {
   console.log('名前が違います。')
 };
+
